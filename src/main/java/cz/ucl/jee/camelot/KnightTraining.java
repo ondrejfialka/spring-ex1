@@ -9,7 +9,7 @@ import cz.ucl.jee.camelot.nobility.Knight;
 @Configuration
 public class KnightTraining {
 	
-	@Bean(name="Lancelot")
+	//@Bean(name="Lancelot")
 	public Knight trainLancelot() {
 		//TODO create instance
 		return null;
